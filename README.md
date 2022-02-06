@@ -1,6 +1,6 @@
 # Desafio DIO: APP-BANCO
 
-Projeto inicla para elaboraao de um Banco Digital.
+Projeto iniclal para elaboração de um Banco Digital.
 
 ### Linguagem Utilizada:
 - Java
